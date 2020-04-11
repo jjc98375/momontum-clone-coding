@@ -47,8 +47,9 @@ input {
 
 .edge {
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 10px;
+  right: 10px;
+  text-shadow: 1px 1px 5px black;
 }
 
 .js-weather {
